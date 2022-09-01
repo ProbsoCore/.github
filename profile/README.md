@@ -7,7 +7,7 @@
   </p>
   <h1 align="center"><b>Probso</b></h1>
   <p align="center">
-  Help people with your freshly developed practical solutions than your opinions.
+  Help to people with your freshly developed practical solutions than your opinions.
     <br />
     <a href="https://prob.so"><strong>prob.so »</strong></a>
     <br />
