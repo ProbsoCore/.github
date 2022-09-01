@@ -19,7 +19,7 @@
     ·
     Android
     <br />
-    <i>~ Under Construction🔨. Coming Soon🎉. ~</i>
+    <i>~ Coming Soon🎉. ~</i>
   </p>
 </p>
  
