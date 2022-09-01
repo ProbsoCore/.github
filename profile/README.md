@@ -23,7 +23,7 @@
     <i>~ 🎉 Coming Soon 🎉 ~</i>
   </p>
 </p>
-Probso is a new genre of social platform, especially for people who like to help others and solve problems, for people who have any type of problems, for people who want to spend their time effectively on the internet by exploring how other people are trying to help and solving problems using their skills. This is a new genre of social platform especially for people who like to help others and solve problems, for people who have any type of problems, for people who want to spend their time effectively on the internet by exploring how other people are trying to help and solving problems using their skills.
+Probso is a new genre of social platform, especially for people who like to help others and solve problems, for people who have any type of problems, for people who want to spend their time effectively on the internet by exploring how other people are trying to help and solving problems using their skills.
 <br/>
 <br/>
 
