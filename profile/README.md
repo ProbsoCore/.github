@@ -13,6 +13,7 @@
     <br />
     <br />
     <b>Will Available For </b>
+    ·
     Web
     ·
     iOS
