@@ -27,4 +27,4 @@ Probso is a new genre of social platform, especially for people who like to help
 <br/>
 <br/>
 
-> NOTE: The meaning of <b>Probso</b> is <b>" Problems and Solvers "</b>.
+> The meaning of <b>Probso</b> is <b>" Problems and Solvers "</b>.
