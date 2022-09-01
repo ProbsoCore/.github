@@ -28,10 +28,7 @@ Probso is a new genres of a social platform specially designed for people who lo
 <br/>
 
 > Info: The full meaning of <b>Probso</b> is <b>" Problems and Solvers "</b>.
-
 <br/>
-<br/>
-
 # Why I am trying to make this🤔?
 
 
