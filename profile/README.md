@@ -23,6 +23,6 @@
     <i>~ 🎉 Coming Soon 🎉 ~</i>
   </p>
 </p>
- The full meaning of <b>Probso</b> was <b>"Problems and Solvers"</b>. It's a social platform for people who love helping other people and solving problems,for people who have anykind of problems, 
+ The full meaning of <b>Probso</b> was <b>"Problems and Solvers"</b>. It's a social platform for people who love helping other people and solving problems, for people who have anykind of problems. 
 <br/>
-br/>
+<br/>
