@@ -19,7 +19,7 @@
     ·
     Android
     <br />
-    <i>~ Coming Soon🎉. ~</i>
+    <i>~ 🎉 Coming Soon 🎉 ~</i>
   </p>
 </p>
  
