@@ -23,13 +23,13 @@
     <i>~ 🎉 Coming Soon 🎉 ~</i>
   </p>
 </p>
-Probso is a new genres of a social platform specially designed for people who love to help others and solve problems by using their research & analytics skills + innovative skills + creative thinking skills, for people who want freshly developed practical solutions than opinions on the problems they are facing, for people who want to spend their time effectively on the internet by exploring how other people are trying to help and solving problems using their skills. Probso will be different from any other social forum that has ever existed on the internet.
+Probso is a new genres of a social platform specially designed for people who love to help others and solve problems by using their research & analytics skills + innovative skills + creative thinking skills, for people who want freshly developed practical solutions than opinions on the problems they are facing, for people who want to spend their time effectively on the internet by exploring how other people are trying to help and solving problems using their skills.
 <br/>
 <br/>
 
 > Info: The full meaning of <b>Probso</b> is <b>" Problems and Solvers "</b>.
-<br/>
 
-# Why I am trying to make this🤔?
-
+<p align="center">
+  <img src="https://us-east-1.tixte.net/uploads/share.tixte.co/together_improve.png" alt="Research_&_Brain_Storming">
+</p>
 
