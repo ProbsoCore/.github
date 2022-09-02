@@ -3,7 +3,7 @@
     
   </a>
   <p align="center">
-   <img width="150" height="150" src="https://us-east-1.tixte.net/uploads/share.tixte.co/probso_logo-only.png" alt="Logo">
+   <img width="150" height="150" src="https://us-east-1.tixte.net/uploads/share.tixte.co/heaart-shaped-logo.png" alt="Logo">
   </p>
   <h1 align="center"><b>Probso</b></h1>
   <p align="center">
