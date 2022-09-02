@@ -23,7 +23,7 @@
     <i>~ 🎉 Coming Soon 🎉 ~</i>
   </p>
 </p>
-Probso is a new genres of compassion centered social platform specially designed for people who love to help others and solve problems by using their research & analytics skills + innovative skills + creative thinking skills, for people who want freshly developed practical solutions than opinions on the problems they are facing, for people who want to meet like-minded people and solve problems together, for people who want to spend their time effectively on the internet by exploring how other people are trying to help and solving problems using their skills and compassion.
+Probso is a new genres of compassion centered social platform specially designed for people who love to help others and solve problems by using their research & analytics skills + innovative skills + creative thinking skills, for people who want freshly developed practical solutions based on compassion than compassionless opinions on the problems they are facing, for people who want to meet like-minded people and solve problems together, for people who want to spend their time effectively on the internet by exploring how other people are trying to help and solving problems using their skills and compassion.
 <br/>
 <br/>
 
