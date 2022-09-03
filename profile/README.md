@@ -40,7 +40,7 @@ People have a basic attitude of wanting to help others. Some people are willing 
 > Reminder : What I want to remind the reader here is I am talking about compassion. Not empathy. Compassion and empathy can be misinterpreted.
 
 <p align="center">
-  <img width="auto" height="250" src="https://us-east-1.tixte.net/uploads/share.tixte.co/Facing_Problems.png" alt="Facing_Problems">
+  <img width="auto" height="150" src="https://us-east-1.tixte.net/uploads/share.tixte.co/Facing_Problems.png" alt="Facing_Problems">
 </p>
 
 # What are considered as problems?
