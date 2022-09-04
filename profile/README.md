@@ -7,7 +7,7 @@
   </p>
   <h1 align="center"><b>Probso</b></h1>
   <p align="center">
-  Help to people with your freshly developed practical solutions based on compassion than compassionless opinions
+  Encourage to people with your freshly developed practical solutions based on compassion than compassionless opinions
     <br />
     <a href="http://www.prob.so"><strong>prob.so »</strong></a>
     <br />
