@@ -9,7 +9,7 @@
   <p align="center">
   Help to people with your freshly developed practical solutions based on compassion than compassionless opinions
     <br />
-    <a href="https://prob.so"><strong>prob.so »</strong></a>
+    <a href="www.prob.so"><strong>prob.so »</strong></a>
     <br />
     <br />
     <b>Will Available For </b>
