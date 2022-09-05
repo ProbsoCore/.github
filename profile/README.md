@@ -52,5 +52,5 @@ Anything which you considered as a problem for you was a kind of problem. It can
   <img width="auto" height="150" src="https://us-east-1.tixte.net/uploads/share.tixte.co/Facing_Problems.png" alt="Facing_Problems">
 </p>
 
-# What motivates me to build this?
+# What motivates me to build this platform?
 
