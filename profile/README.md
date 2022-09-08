@@ -46,7 +46,7 @@ People have a basic attitude of wanting to help others. Some people are willing 
 > 
 # What are considered as problems?
 
-Anything which you considered as a problem for you was a kind of problem. It can be a tiny problem or little problem or medium problem or big problem or a huge problem. It can differ by age group. It can also vary depending on your circumstances and life experience.
+Anything which you considered as a problem for you or for your environment was a kind of problem. It can be a tiny problem or little problem or medium problem or big problem or a huge problem. It can differ by age group. It can also vary depending on your circumstances and life experience.
 
 <p align="center">
   <img width="auto" height="150" src="https://us-east-1.tixte.net/uploads/share.tixte.co/Facing_Problems.png" alt="Facing_Problems">
