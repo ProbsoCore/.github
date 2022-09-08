@@ -35,7 +35,7 @@ Probso is a new genres of compassion-centered social based on actions specially 
 
 # Why compassion-centered?
 
-People have a basic attitude of wanting to help others. Some people are willing to help because they want to share their experiences or pieces of knowledge. Because of their willingness to help, they easily give suggestions about others' problems based on their supposed opinions. Their supposed opinions are formed out of their life situation and experience. Their suggestion can be upsetting to some people who need help because they are both different in life situations and experiences they have been through. In that kind of case, compassion is very important. That's why I m thinking to develop a compassion-centered social platform, especially for people who need it.
+People have a basic attitude of wanting to help others. Some people are willing to help because they want to share their experiences or pieces of knowledge. Because of their willingness to help, they easily give suggestions about others' problems based on their supposed opinions. Their supposed opinions are formed out of their life situation and experience. Their suggestion can be upsetting to some people who need help because they are both different in life situations and experiences they have been through. In that kind of case, compassion is very important. I can also sense that people in our society were losing compassion for each other day by day. That's why I m thinking to develop a compassion-centered social platform, especially for people who need it and who want to give.
 
 
 <p align="center">
