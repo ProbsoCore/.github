@@ -3,54 +3,26 @@
     
   </a>
   <p align="center">
-   <img width="150" height="150" src="https://us-east-1.tixte.net/uploads/share.tixte.co/probso_logo-only.png" alt="Logo">
+   <img width="250" height="150" src="https://us-east-1.tixte.net/uploads/ajax.tixte.co/discord-dev-logo.png" alt="Logo">
   </p>
-  <h1 align="center"><b>Probso</b></h1>
+  <h1 align="center"><b>Discord Bot Starter</b></h1>
   <p align="center">
-  Encourage to people with your freshly developed practical solutions based on compassion than compassionless opinions
-    <br />
-    <a href="http://www.prob.so"><strong>prob.so »</strong></a>
-    <br />
-    <br />
-    <b>Will Available For </b>
-    ·
-    Web
-    ·
-    iOS
-    ·
-    Android
-    <br />
-    <i>~ 🎉 Coming Soon 🎉 ~</i>
+  🌿 A simple, beginner-friendly TypeScript Discord bot starter template.
+   <br />
+   <p align="center">
+      <img src="https://img.shields.io/badge/License-MIT-green.svg"> <img src="https://badgen.net/badge/Built%20With/TypeScript/blue"> 
+   </p>
   </p>
 </p>
-Probso is a new genres of compassion-centered social based on actions specially designed for people who love to help others and solve others' problems by using their compassion + research & analytics skills + innovative skills + creative thinking skills, for people who want freshly developed practical solutions based on compassion than compassionless opinions on the problems they are facing, for people who want to meet like-minded people and solve problems together, for people who want to spend their time effectively on the internet by exploring how other people are trying to help and solving problems using their skills and compassion.
+<br />
+I love creating Discord bots because I can bring my imaginative ideas to life by customizing my Discord server in unique ways. While developing new bots, I have noticed that I keep setting up basic templates from scratch every time, which is time-consuming even though I can reuse the template. So, I decided to create a proper reusable template that is beginner-friendly and easy to use. Initially, I created this template for myself, but I made it public so that others can also benefit from it when they need to create a simple Discord bot quickly.
 <br/>
 <br/>
 
 <p align="center">
-  <img width="auto" height="250" src="https://us-east-1.tixte.net/uploads/share.tixte.co/using_probso.png" alt="Research_&_Brain_Storming">
+  <img width="auto" height="350" src="https://us-east-1.tixte.net/uploads/ajax.tixte.co/discord-gif-emoji-3.gif" alt="Discord_Bot">
 </p>
 
-> FYI: The full meaning of <b>Probso</b> is <b>" Problems and Solvers "</b>.
+# ⚡ Installation
 
-# Why compassion-centered?
-
-People have a basic attitude of wanting to help others. Some people are willing to help because they want to share their experiences or pieces of knowledge. Because of their willingness to help, they easily give suggestions about others' problems based on their supposed opinions. Their supposed opinions are formed out of their life situation and experience. Their suggestion can be upsetting to some people who need help because they are both different in life situations and experiences they have been through. In that kind of case, compassion is very important. I can also sense that people in our society were losing compassion for each other day by day. That's why I m thinking to develop a compassion-centered social platform, especially for people who need it and who want to give.
-
-
-<p align="center">
-  <img width="auto" height="250" src="https://us-east-1.tixte.net/uploads/share.tixte.co/together_improve.png" alt="Research_&_Brain_Storming">
-</p>
-
-> Reminder : What I want to remind the reader here is I am talking about compassion. Not empathy. Compassion and empathy can be misinterpreted.
-> 
-# What are considered as problems?
-
-Anything which you considered as a problem for you or for your environment was a kind of problem. It can be a tiny problem or little problem or medium problem or big problem or a huge problem. It can differ by age group. It can also vary depending on your circumstances and life experience.
-
-<p align="center">
-  <img width="auto" height="150" src="https://us-east-1.tixte.net/uploads/share.tixte.co/Facing_Problems.png" alt="Facing_Problems">
-</p>
-
-# What triggered me to build this platform?
 
